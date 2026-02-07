@@ -46,6 +46,8 @@ Known tricks:
     - [AllowLoadLocal_TabBetweenKeyValueBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/space_between/AllowLoadLocal_TabBetweenKeyValueBypass.java)
 - upper case: Key-value uppercase bypass
     - [AllowLoadLocal_TrueUpperCaseBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/upper_case/AllowLoadLocal_TrueUpperCaseBypass.java)
+- address block parameter ：Bypassing parameters using brackets
+    - [AllowLoadLocal_AddressBlockParameterBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/address_block_parameter/AllowLoadLocal_AddressBlockParameterBypass.java)
 
 Conference public content:
 

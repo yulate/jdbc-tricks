@@ -47,6 +47,8 @@ jdbc-tricks/
     - [AllowLoadLocal_TabBetweenKeyValueBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/space_between/AllowLoadLocal_TabBetweenKeyValueBypass.java)
 - upper case ：键值大写绕过
     - [AllowLoadLocal_TrueUpperCaseBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/upper_case/AllowLoadLocal_TrueUpperCaseBypass.java)
+- address block parameter ：括号传参绕过
+    - [AllowLoadLocal_AddressBlockParameterBypass.java](jdbc-test-case/mysql-driver/version8/src/main/java/com/jdbc/tricks/address_block_parameter/AllowLoadLocal_AddressBlockParameterBypass.java)
 
 会议公开内容：
 
